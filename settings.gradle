@@ -21,6 +21,8 @@
  *
  */
 
+ // Adding a test comment 
+
 include ':android-uxsdk-beta-core'
 include ':android-uxsdk-beta-cameracore'
 include ':android-uxsdk-beta-hardwareaccessory'
