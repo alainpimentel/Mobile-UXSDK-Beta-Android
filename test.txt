@@ -13,3 +13,5 @@ Third test
 and more
 and more!
 and more
+This is a squashing test, will be multiple commits
+another
