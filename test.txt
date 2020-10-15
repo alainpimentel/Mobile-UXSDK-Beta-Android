@@ -15,3 +15,5 @@ and more!
 and more
 This is a squashing test, will be multiple commits
 another
+Second part of test
+another
