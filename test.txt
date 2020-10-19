@@ -18,3 +18,4 @@ another
 Second part of test
 another
 This line is added from forked repo.
+A line from internal repo, to test mergec conflicts.
